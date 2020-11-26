@@ -81,7 +81,7 @@ The chosen patch length is ![L\approx 16.6\text{mm}](https://render.githubuserco
   is made to estimate the best couple of values for patch width and feed position:
 
   <p align="center">
-  <img src="/images/contourplot.png" width="512">
+  <img src="/images/contourPlot.png" width="512">
   </p>
 
 The minimum is located at the values ![W\approx 21.5\text{mm}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+W%5Capprox+21.5%5Ctext%7Bmm%7D)
