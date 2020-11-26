@@ -1,5 +1,5 @@
 
-# Design of a 5.8 GHz rectangular Patch Linear Array
+# Design of a 5.8 GHz rectangular patch linear array
 
 Team:
 - Alessandro Di Clemente
