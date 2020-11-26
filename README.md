@@ -173,5 +173,5 @@ By reducing the inter-element distance without violating the geometry constraint
 Introducing a greater number of array elements also sacrifices the project constraints in terms of structure area, but opens to the possibility to use a larger order Chebyshev array factor that could have the same beamwidth and ML/SL ratio with a narrower visibility window, thus suppressing the appearance of a grating lobe.
 
 ## References
-- *Wireless Electromagnetic Technology* course notes, G. Marrocco
+- *Wireless Electromagnetic Technology* course notes, G. Marrocco (http://www.pervasive.ing.uniroma2.it/Alab_Teaching_TE.htm)
 - *Antenna Theory: Analysis and Design*, C. A. Balanis
